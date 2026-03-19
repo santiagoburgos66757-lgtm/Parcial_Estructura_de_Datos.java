@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * ═══════════════════════════════════════════════════════════════════
- *  PUNTO 4 — Caso aplicado de diseño con ArrayList (20 pts)
+ *  PUNTO 4 — Caso aplicado de diseño con ArrayList
  * ═══════════════════════════════════════════════════════════════════
  *
  *  SISTEMA: Plataforma virtual de asesorías académicas — gestión de turnos.

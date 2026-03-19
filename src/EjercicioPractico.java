@@ -2,8 +2,8 @@ import java.util.ArrayList;
 
 /**
  * ═══════════════════════════════════════════════════════════════════
- *  EJERCICIO PRÁCTICO — Simulación de ArrayList con trazas (25 pts)
- *  Estudiante: Santiago Burgos | a=5, b=7, c=9
+ *  EJERCICIO PRÁCTICO — Simulación de ArrayList con trazas
+ *
  * ═══════════════════════════════════════════════════════════════════
  *
  *  LISTA INICIAL (8 enteros con a=5, b=7, c=9):
@@ -155,7 +155,7 @@ public class EjercicioPractico {
         System.out.println("  └────┴──────────────────────────────┴─────────────────┴─────────┘");
         System.out.println("  Total desplazamientos: 6+0+9+5+0+4 = 24");
         System.out.println();
-        System.out.println("  OPERACIÓN MÁS COSTOSA: * Op3 — remove(0)");
+        System.out.println("  OPERACIÓN MÁS COSTOSA: ★ Op3 — remove(0)");
         System.out.println("  ─────────────────────────────────────────────────────────────");
         System.out.println("  Eliminar el elemento en el índice 0 obligó a desplazar");
         System.out.println("  TODOS los n-1 = 9 elementos restantes hacia la izquierda.");

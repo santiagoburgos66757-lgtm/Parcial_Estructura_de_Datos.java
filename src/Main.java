@@ -12,7 +12,7 @@ public class Main {
         System.out.println("║         PRIMER PARCIAL — Estructuras de Datos                ║");
         System.out.println("║         Temas: Big O, List, ArrayList                        ║");
         System.out.println("║         Estudiante: Santiago Burgos                          ║");
-        System.out.println("║         Valores personalizados: a=6, b=5, c=6                ║");
+        System.out.println("║         Datos Personales: a=6, b=5, c=6                      ║");
         System.out.println("╚══════════════════════════════════════════════════════════════╝");
         System.out.println();
 

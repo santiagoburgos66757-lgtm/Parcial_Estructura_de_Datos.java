@@ -2,7 +2,7 @@
 
  //*  PRIMER PARCIAL — Punto de entrada principal
 // *  Estructuras de Datos: Big O, List, ArrayList
- //*  Estudiante: Santiago Burgos Codigo: 66757 ---->| a=6, b=5, c=6 |
+ //*  Estudiante: Santiago Burgos Codigo: 66757 ---->| a=5, b=7, c=9 |
 
 
 public class Main {
@@ -12,7 +12,7 @@ public class Main {
         System.out.println("║         PRIMER PARCIAL — Estructuras de Datos                ║");
         System.out.println("║         Temas: Big O, List, ArrayList                        ║");
         System.out.println("║         Estudiante: Santiago Burgos                          ║");
-        System.out.println("║         Datos Personales: a=6, b=5, c=6                      ║");
+        System.out.println("║         Datos Personales: a=5, b=7, c=9                      ║");
         System.out.println("╚══════════════════════════════════════════════════════════════╝");
         System.out.println();
 

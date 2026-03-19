@@ -7,13 +7,13 @@ import java.util.List;
  * ═══════════════════════════════════════════════════════════════════
  *
  *  COMPLEJIDADES (peor caso):
- *
- *  │       Método             │ Big O    │ Razón Principal
- *  │                          │          │
- *  │ contarMayores            │ O(n)     │ Un bucle: n iteraciones × O(1) cada uno
- *  │ insertarSiNoExiste       │ O(n)     │ contains O(n) + add(0,x) O(n)
- *  │ depurarDuplicados        │ O(n²)    │ Doble bucle n(n-1)/2 + remove O(n)
- *
+ *  ┌────────────────────────────────────────────────────────────────────────────────┐
+ *  │       Método             │ Big O    │ Razón Principal                          │
+ *  │                          │          │                                          │
+ *  │ contarMayores            │ O(n)     │ Un bucle: n iteraciones × O(1) cada uno  │
+ *  │ insertarSiNoExiste       │ O(n)     │ contains O(n) + add(0,x) O(n)            │
+ *  │ depurarDuplicados        │ O(n²)    │ Doble bucle n(n-1)/2 + remove O(n)       │
+ *  └────────────────────────────────────────────────────────────────────────────────┘
  *
  *  ORDEN DE ESCALABILIDAD (mejor → peor para n grande):
  *    1° contarMayores      → O(n)   — un recorrido simple, sin desplazamientos

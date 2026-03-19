@@ -15,13 +15,13 @@ import java.util.ArrayList;
  *      while (i < datos.size() && datos.get(i) < x) {
  *          i++;
  *      }
- *      datos.set(i, x);           ← ERROR 1 y ERROR 2
+ *      datos.set(i, x);    <---- ERROR 1 y ERROR 2
  *  }
  *
  *  public static void eliminarNegativos(ArrayList<Integer> datos) {
  *      for (int i = 0; i < datos.size(); i++) {
  *          if (datos.get(i) < 0) {
- *              datos.remove(i);   ← ERROR 3 y ERROR 4
+ *              datos.remove(i);  <------ERROR 3 y ERROR 4
  *          }
  *      }
  *  }
